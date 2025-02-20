@@ -5,6 +5,9 @@ This project is part of my **30-day data science challenge** where I complete on
 
 ## 📂 Dataset
 - **Source**: Car Evaluation Dataset
+- ## 📂 Data Source
+Dataset from Kaggle:  
+[🚗 Car Evaluation Dataset](https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set)
 - **Description**: The dataset consists of **1,727 instances** with **6 categorical features**:
   - **buying** 💰: Cost of buying the car (vhigh, high, med, low)
   - **maint** 🔧: Maintenance cost (vhigh, high, med, low)

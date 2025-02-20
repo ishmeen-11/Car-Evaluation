@@ -4,7 +4,7 @@
 This project is part of my **30-day data science challenge** where I complete one project per day using different machine learning models. On **Day 3**, I implemented a **Decision Tree Classifier** on the **Car Evaluation dataset** to predict car acceptability based on various categorical features.
 
 ## 📂 Dataset
-- **Source**: Car Evaluation Dataset[https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set]
+- **Source**: Car Evaluation Dataset [https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set]
 - **Description**: The dataset consists of **1,727 instances** with **6 categorical features**:
   - **buying** 💰: Cost of buying the car (vhigh, high, med, low)
   - **maint** 🔧: Maintenance cost (vhigh, high, med, low)

@@ -52,14 +52,9 @@ Dataset from Kaggle:
 🔹 Both **Gini Index** and **Entropy** provided the same accuracy in this case.
 🔹 Decision Trees are easy to interpret and visualize, making them useful for classification problems with categorical variables.
 
-## 🔥 Next Steps
-🚀 Implement **pruning techniques** to optimize the decision tree.
-🚀 Perform **hyperparameter tuning** (`max_depth`, `min_samples_split`).
-🚀 Compare Decision Tree with **other classifiers** like **Random Forest** and **SVM**.
-
 ---
 🛠️ **This is part of my 30-day challenge where I explore different ML models daily. Stay tuned for Day 4!** 🎯
 
-📌 **Author**
-Ishmeen Garewal
+## 👨‍💻 Author
+Ishmeen Garewal ✨
 
